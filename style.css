@@ -2,6 +2,22 @@
     --cor-de-fundo: #f70000;
     --branco: #fff;
     --font-principal: "poppins";
-    --font-secundaria: "Josfin Sans
-    --preto: #fff;
+    --font-secundaria: "Josfin sans";
+    --preto: #0a0a0a;
+}
+.cabecalho {
+    color: rgb(red, green, blue);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 24px 0;
+
+}
+
+.titulo{
+    text-align: center;
+}
+
+.imagem{
+    width: 20%;
 }
